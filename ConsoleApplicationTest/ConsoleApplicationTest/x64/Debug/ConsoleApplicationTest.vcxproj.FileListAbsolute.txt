@@ -1,0 +1,3 @@
+C:\MyLearn\C++\ConsoleApplicationTest\ConsoleApplicationTest\x64\Debug\ConsoleApplicationTest.vcxproj.MdMergeInputs.cache
+C:\MyLearn\C++\ConsoleApplicationTest\ConsoleApplicationTest\x64\Debug\ConsoleApplicationTest.vcxproj.cppwinrt_plat.cache
+C:\MyLearn\C++\ConsoleApplicationTest\ConsoleApplicationTest\x64\Debug\ConsoleApplicationTest.vcxproj.cppwinrt_comp.cache
