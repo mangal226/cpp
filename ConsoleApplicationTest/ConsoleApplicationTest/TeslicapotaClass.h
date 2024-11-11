@@ -3,7 +3,6 @@ class TeslicapotaClass
 #include <iostream>
 {
 	int main() {
-		std::cout << "Hello Hamed";
-	}
+		cout << "Hello Hamed";
+	
 }
-
